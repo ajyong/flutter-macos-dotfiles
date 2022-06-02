@@ -2,7 +2,7 @@ build-tools;32.0.0
 cmake;3.18.1
 cmdline-tools;latest
 emulator
-ndk;23.1.7779620
+ndk;23.2.8568313
 patcher;v4
 platform-tools
 platforms;android-32
