@@ -14,6 +14,9 @@ export ANDROID_HOME="$HOME/Library/Android/sdk"
 export PATH="$PATH:$HOME/Library/Android/sdk/platform-tools:$HOME/Library/Android/sdk/cmdline-tools/latest/bin"
 export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/Contents/home"
 
+# FVM's default Flutter path when you use 'flutter'
+export PATH="$PATH:$HOME/fvm/default/bin"
+
 # Shell Git shorthands
 alias gp="git push"
 alias gpf="git push --force"
